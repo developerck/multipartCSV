@@ -1,3 +1,5 @@
-READ ME FILE
-=======================
-This is chandra kishor
+This class can be used to write data into csv, in multiple parts.
+like you have 100k lines of data and want that each file should be containt only 10 k. then this class can do it for you.
+It comes with some handy fucntion. you can provide data at once or in parts or one by one, or you can even provide data as per csv.
+this can make a zip for you also.
+see the example folder .
